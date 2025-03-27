@@ -10,6 +10,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+.vs/
+*.suo
+obj/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -404,7 +407,11 @@ FodyWeavers.xsd
 *.suo
 *.user
 obj/
+<<<<<<< HEAD
 >>>>>>> 3f15350ddd94cb879bdaf93abcb52b02642102f4
+=======
+>>>>>>> deef346c532328ba7808c3c6deaa7c6d7ffe4550
+>>>>>>> main
 # JetBrains Rider
 *.sln.iml
 =======
