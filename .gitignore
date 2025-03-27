@@ -403,7 +403,10 @@ FodyWeavers.xsd
 .vs/
 *.suo
 *.user
+.vs/
+*.suo
 obj/
+
 >>>>>>> 3f15350ddd94cb879bdaf93abcb52b02642102f4
 # JetBrains Rider
 *.sln.iml
