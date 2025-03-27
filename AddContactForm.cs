@@ -20,10 +20,13 @@ namespace ContactList
         private void ThemLienHe_Click(object sender, EventArgs e)
         {
         }
+<<<<<<< HEAD
 
         private void AddContactForm_Load(object sender, EventArgs e)
         {
 
         }
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
     }
 }

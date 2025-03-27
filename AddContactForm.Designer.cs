@@ -33,8 +33,11 @@
             this.HoTen = new System.Windows.Forms.TextBox();
             this.SDT = new System.Windows.Forms.TextBox();
             this.ThemLienHe = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.Email = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
             this.SuspendLayout();
             // 
             // label1
@@ -79,6 +82,7 @@
             this.ThemLienHe.UseVisualStyleBackColor = true;
             this.ThemLienHe.Click += new System.EventHandler(this.ThemLienHe_Click);
             // 
+<<<<<<< HEAD
             // Email
             // 
             this.Email.Location = new System.Drawing.Point(271, 144);
@@ -95,13 +99,18 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Email";
             // 
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
             // AddContactForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.label3);
             this.Controls.Add(this.Email);
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
             this.Controls.Add(this.ThemLienHe);
             this.Controls.Add(this.SDT);
             this.Controls.Add(this.HoTen);
@@ -109,7 +118,10 @@
             this.Controls.Add(this.label1);
             this.Name = "AddContactForm";
             this.Text = "AddContactForm";
+<<<<<<< HEAD
             this.Load += new System.EventHandler(this.AddContactForm_Load);
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -122,7 +134,10 @@
         private System.Windows.Forms.TextBox HoTen;
         private System.Windows.Forms.TextBox SDT;
         private System.Windows.Forms.Button ThemLienHe;
+<<<<<<< HEAD
         private System.Windows.Forms.TextBox Email;
         private System.Windows.Forms.Label label3;
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
     }
 }
