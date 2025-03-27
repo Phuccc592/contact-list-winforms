@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\",
   "Documents": [
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dang\\source\\repos\\contact-list-winforms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+=======
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
       "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|c:\\users\\dang\\source\\repos\\contact-list-winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dang\\source\\repos\\contact-list-winforms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
       "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|c:\\users\\dang\\source\\repos\\contact-list-winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,6 +32,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|c:\\users\\dang\\source\\repos\\contact-list-winforms\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
     }
   ],
   "DocumentGroupContainers": [
@@ -26,29 +42,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+=======
               "DocumentIndex": 0,
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+=======
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAoAAAAAAAAAA==",
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T07:49:40.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs",
+              "RelativeToolTip": "AddContactForm.cs",
+=======
               "DocumentIndex": 2,
               "Title": "AddContactForm.cs",
               "DocumentMoniker": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs",
               "RelativeDocumentMoniker": "AddContactForm.cs",
               "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs*",
               "RelativeToolTip": "AddContactForm.cs*",
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T07:46:05.829Z",
@@ -60,6 +93,16 @@
               "Title": "AddContactForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs",
               "RelativeDocumentMoniker": "AddContactForm.cs",
+<<<<<<< HEAD
+              "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:43:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+=======
               "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\AddContactForm.cs [Design]*",
               "RelativeToolTip": "AddContactForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,14 +112,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+>>>>>>> d7c62f9858738fc8fdc6a133d1edc5070c036590
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\Dang\\source\\repos\\contact-list-winforms\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T07:07:59.088Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-27T07:07:59.088Z"
             }
           ]
         }

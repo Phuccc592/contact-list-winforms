@@ -396,7 +396,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+obj/
 # JetBrains Rider
 *.sln.iml
 =======
