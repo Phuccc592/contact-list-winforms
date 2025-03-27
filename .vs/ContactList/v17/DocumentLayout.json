@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nguyen Hoang Phuc\\source\\repos\\contact-list-winforms\\ContactList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|c:\\users\\nguyen hoang phuc\\source\\repos\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|c:\\users\\nguyen hoang phuc\\source\\repos\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{092E4466-F836-4CE3-B96C-05D2C2B67C05}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nguyen Hoang Phuc\\source\\repos\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Nguyen Hoang Phuc\\source\\repos\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:15:56.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Nguyen Hoang Phuc\\source\\repos\\contact-list-winforms\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
